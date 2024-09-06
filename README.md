@@ -9,9 +9,5 @@
 - SQL | PostgreSQL | MySQL | Git | Docker
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gabriel-ribeiro-carneiro/)
-- Email: [youremail@example.com](mailto:gabriel.bsb98@gmail.com)
-
-### 📈 GitHub Stats:
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgrc&show_icons=true&theme=radical)
-
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-carneiro/)
+- Email: [Gmail](mailto:gabriel.bsb98@gmail.com)
